@@ -190,3 +190,7 @@ pip-log.txt
 # Mac crap
 .DS_Store
 /node_modules
+
+# Yarn cli configs
+/package-lock.json
+/yarn.lock
